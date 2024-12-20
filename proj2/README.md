@@ -10,13 +10,20 @@ where the two strings differ. For example, the ASCII representations of the stri
 
 So, the Hamming distance between “foo” and “bar” is 8. 
 
-• If the user enters two strings with different lengths, your program should return the Hamming distance up to the length of the shorter string. 
-• The maximum length of the string could be 255 characters. 
+```
+• If the user enters two strings with different lengths, your program should return the Hamming distance up to the length of the shorter string.
+```
+
+```
+• The maximum length of the string could be 255 characters.
+```
 • The Hamming distance between the following two strings is 38:
 this is a test
 of the emergency broadcast 
+```
 • You must also make your own test cases. We will test it with ours!
 Turning in your program
+```
 Submit the code files and report in a zip file and name it ‘project1_[your_id].zip’. For
 example, if your ID is YL80856; the file name will be: ‘project1_YL80856.zip’. Submit it
 in Blackboard Lab Assignments Tab. In your report following must be included:
