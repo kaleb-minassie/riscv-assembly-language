@@ -21,11 +21,3 @@ of the emergency broadcast
 • You must also make your own test cases. We will test it with ours!
 Turning in your program
 
-Submit the code files and report in a zip file and name it ‘project1_[your_id].zip’. For
-example, if your ID is YL80856; the file name will be: ‘project1_YL80856.zip’. Submit it
-in Blackboard Lab Assignments Tab. In your report following must be included:
-1. Concept: Brief description of the algorithm implemented, why this approach is optimal,
-how you came up with the approach
-2. Code: Copy paste your assembly code in the report
-3. Output: Screenshot the output cases
-Make sure your report is in .pdf format and accessible 
