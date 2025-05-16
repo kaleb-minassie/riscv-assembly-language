@@ -18,6 +18,3 @@ So, the Hamming distance between “foo” and “bar” is 8.
 this is a test
 of the emergency broadcast 
 
-• You must also make your own test cases. We will test it with ours!
-Turning in your program
-
