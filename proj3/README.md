@@ -27,9 +27,3 @@ Write a RISC-V assembly program that performs the following functions:
 - You can construct your own data files for testing, ensuring they follow the specified format.
 - Your code will be tested with additional examples.
 
-## Important
-- This lab is an **individual effort**.
-- **Cheating will result in failing the course.**
-
-## Due Date
-- **October 18, 2024**
